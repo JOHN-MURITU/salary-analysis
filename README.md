@@ -1,18 +1,15 @@
 # 🧠 Salary Analysis: Because Basic Data Deserves an Overachiever
 
-Welcome to the **Salary Analysis** project. I used a *humble* little SQLite database and unleashed Python on it like it owed me money.
+Welcome to the Salary Analysis project. I used a SQLite database and unleashed Python on it like it owed me money.
 
-### 📊 What’s Inside?
+📊 What’s Inside?
 
 - 🔍 SQL extraction and wrangling (I talk to data like it’s my intern)
 - 🐍 Python for deep data analysis and plotting (Matplotlib, Seaborn, Pandas — you name it)
 - 📈 Multiple advanced visualizations that don’t just look pretty — they slap.
-- 📅 Yearly salary distributions, trends, and outlier detections
-- 🔥 Automated and reusable scripts. Run and done. No babysitting needed.
-
----
-
-## 💼 About Me
+- 📅 Yearly salary distributions, trends, and outlier detections.
+- 
+ 💼 About Me
 
 If you're reading this, I'm **JOHN-MURITU**, and yes, I’m the one who did all of this from scratch.
 
@@ -35,7 +32,7 @@ I'm not here to "learn" — I already know my stuff.
 I’m here to **deliver impact**. I’ll clean your data, analyze it, visualize it, and present it so well you’ll wonder how you ever made decisions before me.
 
 📬 **Hire me before someone else does:**  
-📧 apayjoh2@gmail.com  
+📧 johnmuritu22@gmail.com  
 🌍 [GitHub](https://github.com/JOHN-MURITU)
 
 ---
