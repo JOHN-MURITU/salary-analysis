@@ -1,6 +1,6 @@
 # 🧠 Salary Analysis
 
-Welcome to the Salary Analysis project. I used a SQLite database .
+Welcome to the Salary Analysis project. In this project an SQLite database was used  .
 
 📊 What’s Inside?
 
@@ -26,10 +26,7 @@ SQL --I use this mostly to retrieve data or inside my python code ,and a bit of 
 
 ## 💥 Hiring?
 
-**You should be.** And you should hire me.
-
-I'm not here to "learn" — I already know my stuff.  
-I’m here to **deliver impact**. I’ll clean your data, analyze it, visualize it, and present it so well you’ll wonder how you ever made decisions before me.
+I always do my best to meet the project Goal and open to reviews of my work and constantly improving.
 
 📬 **Am open for work and currently offering discounts since am in need of experience :**  
 📧 johnmuritu22@gmail.com  
@@ -43,7 +40,7 @@ JNM.
 
 ---
 
-## 🚀 Run This Project
+## 🚀 Running The Project
 
 ```bash
 python salary.py
